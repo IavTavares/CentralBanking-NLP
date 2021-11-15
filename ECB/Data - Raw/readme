@@ -2,4 +2,4 @@ In this folder, we have the raw data files.
 
 1) Taken from ECB official site.
 
-2) taken from kaggle profile.
+2) The Datamart file has extra information, which is not present in the official ECB file, such as the language of the speeches, what type of intervention (speech, press conference, etc.).
